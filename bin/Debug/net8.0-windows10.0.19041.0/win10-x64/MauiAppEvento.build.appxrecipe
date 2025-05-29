@@ -55,6 +55,15 @@
     <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Lugrasimo-Regular.ttf">
+      <PackagePath>Lugrasimo-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-Italic-VariableFont_wght.ttf">
+      <PackagePath>Montserrat-Italic-VariableFont_wght.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-VariableFont_wght.ttf">
+      <PackagePath>Montserrat-VariableFont_wght.ttf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>

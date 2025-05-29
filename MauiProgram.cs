@@ -13,6 +13,9 @@ namespace MauiAppEvento
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("Montserrat-Italic-VariableFont_wght.ttf", "MontserratRegular");
+                    fonts.AddFont("Montserrat-VariableFont_wght.ttf", "MontserratBold");
+
                 });
 
 #if DEBUG

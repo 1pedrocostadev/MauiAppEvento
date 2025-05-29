@@ -177,3 +177,7 @@ C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0
 C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Lugrasimo-Regular.ttf
+C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-Italic-VariableFont_wght.ttf
+C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-VariableFont_wght.ttf
+C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppEvento.sourcelink.json

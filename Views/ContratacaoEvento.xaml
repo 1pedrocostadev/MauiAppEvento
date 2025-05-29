@@ -2,16 +2,23 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiAppEvento.Views.ContratacaoEvento"
-             Title="Cadastro Do Evento">
+             Title=""
+             BackgroundColor="#9DECFD" Visual="Default">
     
     <ScrollView>
     <VerticalStackLayout Padding="20" Spacing="10">
-        <Entry Placeholder="Nome do Evento" Text="{Binding Evento.Nome}" />
-        <DatePicker Date="{Binding Evento.DataInicio}" />
-        <DatePicker Date="{Binding Evento.DataTermino}" />
-        <Entry Placeholder="Número de Participantes" Keyboard="Numeric" Text="{Binding Evento.NumeroParticipantes}" />
-        <Entry Placeholder="Local do Evento" Text="{Binding Evento.Local}" />
-        <Entry Placeholder="Custo por Participante" Keyboard="Numeric" Text="{Binding Evento.CustoPorParticipante}" />
+            
+        <Label Text="Cadastro Do Evento"
+              FontFamily="MonstserratRegular"
+              FontSize="50"
+              TextColor="{StaticResource Primary}" />
+        
+            <Entry Placeholder="Nome do Evento" Text="{Binding Evento.Nome}" TextColor="#070707"/>
+        <DatePicker Date="{Binding Evento.DataInicio}" TextColor="#070707" />
+        <DatePicker Date="{Binding Evento.DataTermino}" TextColor="#0C0B0B" />
+        <Entry Placeholder="Número de Participantes" Keyboard="Numeric" Text="{Binding Evento.NumeroParticipantes}" TextColor="#000000" />
+        <Entry Placeholder="Local do Evento" Text="{Binding Evento.Local}" TextColor="#000000" />
+        <Entry Placeholder="Custo por Participante" Keyboard="Numeric" Text="{Binding Evento.CustoPorParticipante}" TextColor="#000000" />
 
         <Button Text="Cadastrar" Clicked="OnCadastrarClicked"/>
     </VerticalStackLayout>

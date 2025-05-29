@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-05-29T18:14:31.057</Modified>
+      <Modified>2025-05-29T20:06:26.713</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppEvento.dll">
       <PackagePath>MauiAppEvento.dll</PackagePath>
-      <Modified>2025-05-29T18:14:29.791</Modified>
+      <Modified>2025-05-29T20:06:26.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppEvento.exe</PackagePath>
-      <Modified>2025-05-29T18:14:29.791</Modified>
+      <Modified>2025-05-29T20:06:26.433</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -73,6 +73,18 @@
     <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-05-29T14:54:08.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Lugrasimo-Regular.ttf">
+      <PackagePath>Lugrasimo-Regular.ttf</PackagePath>
+      <Modified>2025-05-16T14:42:34.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-Italic-VariableFont_wght.ttf">
+      <PackagePath>Montserrat-Italic-VariableFont_wght.ttf</PackagePath>
+      <Modified>2025-05-29T17:03:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-VariableFont_wght.ttf">
+      <PackagePath>Montserrat-VariableFont_wght.ttf</PackagePath>
+      <Modified>2025-05-29T17:03:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
