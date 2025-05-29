@@ -1,0 +1,1 @@
+C:\Users\Matheus Costa\source\repos\MauiAppEvento\MauiAppEvento\MauiAppEvento.csproj;x64
